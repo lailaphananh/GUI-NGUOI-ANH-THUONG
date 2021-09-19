@@ -2,7 +2,7 @@
 ## _Một điều nho nhỏ tỏ tình với crush_
 
 Liên lạc: 
-[![Facebook](https://i.imgur.com/GRqy96ts.jpg)](https://hunterman1109.github.io/Anh-Ngoc/)
+[![Facebook](https://i.imgur.com/GRqy96ts.jpg)](https://hunterman1109.github.io/Chi-Chi/)
 ```
 const CONFIG = {
     introTitle: 'Babe à!',
@@ -21,7 +21,7 @@ const CONFIG = {
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
     messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.facebook.com/messages/t/100007917721404' //link mess của các bạn. VD:
+    messLink: '' https://www.facebook.com/messages/t/100026031100253/link mess của các bạn. VD:
 }
 ```
 
