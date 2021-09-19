@@ -1,9 +1,6 @@
 # Tặng Crush
 ## _Một điều nho nhỏ tỏ tình với crush_
 
-Liên lạc: 
-[![Facebook](https://i.imgur.com/GRqy96ts.jpg)](https://hunterman1109.github.io/Chi-Chi/)
-```
 const CONFIG = {
     introTitle: 'Babe à!',
     introDesc: `Trái đất vốn lạ thường
@@ -23,5 +20,5 @@ const CONFIG = {
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://www.facebook.com/messages/t/100026031100253' /link mess của các bạn. VD:
 }
-```
+
 
